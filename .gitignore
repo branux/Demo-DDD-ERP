@@ -250,3 +250,4 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
+/FAN.ERP/Front End/FAN.ERP.FE.WebPage/lib

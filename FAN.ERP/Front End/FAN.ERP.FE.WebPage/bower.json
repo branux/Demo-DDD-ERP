@@ -1,0 +1,26 @@
+{
+  "name": "FAN.ERP.FE.WebPage",
+  "homepage": "https://github.com/fnalin/Demo-DDD-ERP",
+  "authors": [
+    "Fabiano Alberto Nalin <fnalin@msn.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.7",
+    "angular-animate": "^1.5.7",
+    "angular-aria": "^1.5.7",
+    "angular-material": "^1.0.9",
+    "angular-messages": "^1.5.7",
+    "angular-route": "^1.5.7",
+    "angular-sanitize": "^1.5.7"
+  }
+}
